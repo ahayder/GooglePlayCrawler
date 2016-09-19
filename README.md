@@ -1,2 +1,2 @@
 # GooglePlayCrawler
-Two Google Play crawler for gathering informations about developers all apps and an individual app
+Two Google Play crawlers for gathering informations about a single developer's all apps and an individual app
